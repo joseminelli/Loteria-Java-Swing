@@ -11,6 +11,13 @@ O programa Loteria é uma aplicação de interface gráfica em Java que simula t
 - **Jogo de Letras**: O usuário digita uma única letra entre A e Z e o programa gera aleatoriamente uma letra dentro do mesmo intervalo. Se as letras coincidirem, o usuário vence.
 
 - **Par ou Ímpar**: O usuário digita um número e escolhe se ele acha que o número sorteado será par ou ímpar. O programa gera aleatoriamente um número entre 0 e 100 e determina se é par ou ímpar. Se a escolha do usuário coincidir com o resultado, ele vence.
+- 
+## Demonstração
+
+<div align="center">
+  <img src="assets/usage.gif" alt="Demo" width="260" height="350">
+</div>
+
 
 ## Como executar
 
